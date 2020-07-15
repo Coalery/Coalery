@@ -18,25 +18,8 @@
 
 ## 그래서 무엇을 할 수 있나요?
 
-### Languages
+언어는 C, C++, C#, Java, Python, Dart 를 다룰 수 있습니다.
 
-C, C++, C#, Java, Python, Dart 를 다룰 수 있습니다!
+그 밖에 유니티, 플러터를 다룹니다.
 
-위의 언어 중 몇 가지는 공부를 위해 리포지토리가 만들어져있습니다.
-
-* [CppStudy](https://github.com/Coalery/CppStudy)
-
-* [CSharpStudy](https://github.com/Coalery/CSharpStudy)
-
-* [PythonStudy](https://github.com/Coalery/PythonStudy)
-
-* [DartStudy](https://github.com/Coalery/DartStudy)
-
-### Programs
-
-유니티를 다룰 수 있습니다.
-
-현재는 다트 언어를 통해 플러터를 하고 있습니다!
-
-<!--
-## 만들어온 프로그램들에 대해 간략히 설명해주세요! -->
+웹은 못합니다.. :
