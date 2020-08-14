@@ -4,6 +4,8 @@
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=Coalery&show_icons=true)
 
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Coalery)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/_Coalery?label=%40_Coalery&style=social)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoalery)](https://hits.seeyoufarm.com)
 
