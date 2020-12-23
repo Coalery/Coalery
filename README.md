@@ -6,6 +6,8 @@
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=Coalery&show_icons=true)](https://github.com/Coalery)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coalery&layout=compact&langs_count=10)](https://github.com/Coalery)
+
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=doralife12)](https://solved.ac/doralife12)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Coalery&theme=chalk&row=1&column=7)](https://github.com/Coalery)
