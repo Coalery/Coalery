@@ -14,6 +14,14 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 <br>
 
+## What I study currently
+
+- Flutter
+
+- JS, TS (For BackEnd)
+
+<br>
+
 ## What I did
 
 - HwaMyeong High school (2018 ~ 2020)
@@ -22,9 +30,41 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 - Kyung Hee University Computer Science and Engineering (2021 ~)
 
-- CodmingOut SW Study Mentor (Flutter, JS) (2020 ~)
+- Administrator of SW Kakao Open Chat
+
+  - [C, C++, C#](https://open.kakao.com/o/ghFjlzr)
+  
+  - [Java, Kotlin, Android](https://open.kakao.com/o/goAvtbOb)
+  
+  - [Python, AI](https://open.kakao.com/o/gWvnqvF)
+
+  - [Web](https://open.kakao.com/o/gm2yL8kb)
+  
+  - [Hardware of Computer](https://open.kakao.com/o/gEI0jymb)
 
 - [Sullivan Project](https://sullivanproject.io/) Teacher (App, Flutter) (2021)
+
+## Studies
+
+- [BGM (부산 개발자 모임, Busan Developers Group)](https://github.com/BusanDevelopers)
+
+  - [BGM](https://github.com/BusanDevelopers) Server Study (Node.js, AWS) (2020)
+
+  - [BGM](https://github.com/BusanDevelopers) AI Introduction Study (2020)
+  
+    - Using K-MOOC SNU Open Lecture ([Syllabus](http://www.kmooc.kr/courses/course-v1:SNUk+SNU048_011k+2020_T2/ff08711ee4d84c348aa0423ac5024a4c/))
+ 
+  - [BGM](https://github.com/BusanDevelopers) AI with Practice Study (2020)
+
+    - Using Youtube Videos made by Sung Kim ([Playlist](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm))
+
+- CodmingOut SW Study Mentor (Flutter, JS) (2020 ~)
+
+- From Zero JS Study(제로부터 JS 스터디) (JS) (2021)
+
+- Devouring Algorithm and Data Structure Study(씹어먹는 알고리즘과 자료구조) (2021)
+
+  - [Related Github Repository](https://github.com/devouring-algorithm-ds/algorithm-study-s1)
 
 <br>
 
