@@ -46,7 +46,7 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 ## Studies
 
-- [BGM (부산 개발자 모임, Busan Developers Group)](https://github.com/BusanDevelopers)
+- [BGM](https://github.com/BusanDevelopers) (부산 개발자 모임, Busan Developers Group)
 
   - [BGM](https://github.com/BusanDevelopers) Server Study (Node.js, AWS) (2020)
 
