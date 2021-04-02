@@ -48,13 +48,13 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 - [BGM](https://github.com/BusanDevelopers) (부산 개발자 모임, Busan Developers Group)
 
-  - [BGM](https://github.com/BusanDevelopers) Server Study (Node.js, AWS) (2020)
+  - Server Study (Node.js, AWS) (2020)
 
-  - [BGM](https://github.com/BusanDevelopers) AI Introduction Study (2020)
+  - AI Introduction Study (2020)
   
     - Using K-MOOC SNU Open Lecture ([Syllabus](http://www.kmooc.kr/courses/course-v1:SNUk+SNU048_011k+2020_T2/ff08711ee4d84c348aa0423ac5024a4c/))
  
-  - [BGM](https://github.com/BusanDevelopers) AI with Practice Study (2020)
+  - AI with Practice Study (2020)
 
     - Using Youtube Videos made by Sung Kim ([Playlist](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm))
 
