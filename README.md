@@ -30,7 +30,7 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 - Kyung Hee University Computer Science and Engineering (2021 ~)
 
-- Administrator of SW Kakao Open Chat
+- Administrator of SW Kakao Open Chat (2019 ~)
 
   - [C, C++, C#](https://open.kakao.com/o/ghFjlzr)
   
