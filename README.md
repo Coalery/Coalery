@@ -60,9 +60,9 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 - CodmingOut SW Study Mentor (Flutter, JS) (2020 ~)
 
-- From Zero JS Study(제로부터 JS 스터디) (JS) (2021)
+- From Zero JS Study(제로부터 JS 스터디) (JS) (2021 ~)
 
-- Devouring Algorithm and Data Structure Study(씹어먹는 알고리즘과 자료구조) (2021)
+- Devouring Algorithm and Data Structure Study(씹어먹는 알고리즘과 자료구조) (2021 ~)
 
   - [Related Github Repository](https://github.com/devouring-algorithm-ds/algorithm-study-s1)
 
