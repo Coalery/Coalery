@@ -24,11 +24,11 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 ## What I did
 
-- HwaMyeong High school (2018 ~ 2020)
+- Student of HwaMyeong High school (2018 ~ 2020)
 
   - Founder of Programming Club, Teaching Java (2019)
 
-- Kyung Hee University Computer Science and Engineering (2021 ~)
+- Student of Kyung Hee University Computer Science and Engineering (2021 ~)
 
 - Administrator of SW Kakao Open Chat (2019 ~)
 
@@ -42,7 +42,7 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
   
   - [Hardware of Computer](https://open.kakao.com/o/gEI0jymb)
 
-- [Sullivan Project](https://sullivanproject.io/) Teacher (App, Flutter) (2021)
+- Teacher in [Sullivan Project](https://sullivanproject.io/) (App, Flutter) (2021)
 
 ## Studies
 
