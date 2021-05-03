@@ -62,9 +62,13 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 - From Zero JS Study(제로부터 JS 스터디) (JS) (2021 ~)
 
-- Devouring Algorithm and Data Structure Study(씹어먹는 알고리즘과 자료구조) (2021 ~)
+- Devouring Algorithm and Data Structure Study(씹어먹는 알고리즘과 자료구조) Season 1 (2021)
 
   - [Related Github Repository](https://github.com/devouring-algorithm-ds/algorithm-study-s1)
+
+- Devouring Algorithm and Data Structure Study(씹어먹는 알고리즘과 자료구조) Season 2 (2021 ~)
+
+  - [Related Github Repository](https://github.com/devouring-algorithm-ds/algorithm-study-s2)
 
 <br>
 
