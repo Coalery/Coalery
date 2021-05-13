@@ -44,6 +44,8 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 - Teacher in [Sullivan Project](https://sullivanproject.io/) (App, Flutter) (2021)
 
+<br>
+
 ## Studies
 
 - [BGM](https://github.com/BusanDevelopers) (부산 개발자 모임, Busan Developers Group)
@@ -64,11 +66,31 @@ Hello! I'm Hyeon Woo Kim, working with nickname 'Coalery'.
 
 - Devouring Algorithm and Data Structure Study(씹어먹는 알고리즘과 자료구조) Season 1 (2021)
 
-  - [Related Github Repository](https://github.com/devouring-algorithm-ds/algorithm-study-s1)
+  - [Related Repository](https://github.com/devouring-algorithm-ds/algorithm-study-s1)
 
 - Devouring Algorithm and Data Structure Study(씹어먹는 알고리즘과 자료구조) Season 2 (2021 ~)
 
-  - [Related Github Repository](https://github.com/devouring-algorithm-ds/algorithm-study-s2)
+  - [Related Repository](https://github.com/devouring-algorithm-ds/algorithm-study-s2)
+
+<br>
+
+## Participated
+
+- Busan National University Software Education for High School Students
+
+  - App Development(App Inventor), IoT(Arduino) Course (2019)
+
+  - IoT with Raspberry Pi Course (2019)
+
+  - AI Academy (Hackademy) Course (2020)
+
+- OSS Developer Forum Software Winter Camp with Kookmin University
+
+  - Git for Open Source
+
+  - AlphaZero course with Reinforcement Learning ( Couldn't understand. )
+
+    - [Related Repository](https://github.com/utilForever/2020-OSS-Winter-AlphaZero)
 
 <br>
 
