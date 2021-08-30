@@ -1,6 +1,6 @@
 <div align=center>
 
-  ### Do what I want to do 🔥 
+  ### *Do what I want to do* 
 
   ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
