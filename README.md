@@ -7,7 +7,7 @@
 ### Working 💻
 
 - [Modusign Inc.](https://modusign.co.kr/)
-    - Backend Engineeer
+    - Backend Engineer
 
 <br />
 
