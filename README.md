@@ -22,3 +22,5 @@
 - [Nest.js를 카프카 컨슈머로 만들기! 그런데 많이 이상하게.](https://velog.io/@coalery/kafka-consumer-with-nestjs)
   - Nest.js의 커스텀 어댑터를 활용해서 HTTP 어플리케이션을 카프카 컨슈머로 동작할 수 있도록 만들어봅니다.
   - 관련 레포지토리: [Coalery/kafka-consumer-in-nestjs](https://github.com/Coalery/kafka-consumer-in-nestjs), [Coalery/discord-bot-with-nestjs](https://github.com/Coalery/discord-bot-with-nestjs)
+- [B2B를 위한 인가 체계 구축기: 워크스페이스 프로젝트](https://team.modusign.co.kr/b2b를-위한-인가-체계-구축기-워크스페이스-프로젝트-a514c056f49c)
+  - 모두싸인에서 유연하고 확장 가능한 인가 시스템을 어떻게 구축했는지 소개합니다.
